@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.TvOsGlass" parent="android:Theme.Black.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">#030407</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowOverscan">false</item>
+    </style>
+</resources>
